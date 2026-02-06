@@ -43,6 +43,79 @@ const blogs = [
       For appointments, contact 9343109693.
     `,
   },
+  {
+    id: 3,
+    image: img1,
+    title: "Aligner Maintenance",
+    description:
+      "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
+    author: "Dr. Ignatius Fernandes",
+    fullContent: `Clear aligners are a comfortable and discreet way to straighten your teeth, but they work best only when your 
+    oral hygiene is well maintained. Since aligners are worn for 20–22 hours a day, trapped food particles and plaque can lead to 
+    cavities, bad breath, gum inflammation, and white spots if proper care is not followed. Brushing after every meal and flossing 
+    daily are essential before putting aligners back in, as wearing them over unclean teeth traps bacteria. Aligners should be cleaned
+    regularly using lukewarm water, a soft toothbrush, and aligner-safe cleaning solutions. Avoid hot water, toothpaste, and eating or 
+    drinking anything other than plain water while wearing aligners. Staying hydrated, carrying an aligner case, and attending regular 
+    dental check-ups help ensure smooth and safe treatment. At Dhotrad’s Sunny Dental Clinics, aligner treatment is always dentist-supervised
+    to deliver healthy, confident smiles. If you are looking for clear aligners or Invisalign care in Hubli, visit Dhotrad’s Sunny Dental Clinics 
+    where straight smiles meet healthy care.
+    `,
+  },
+  {
+    id: 4,
+    image: img1,
+    title: "Aligner Maintenance",
+    description:
+      "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
+    author: "Dr. Ignatius Fernandes",
+    fullContent: `Clear aligners are a comfortable and discreet way to straighten your teeth, but they work best only when your 
+    oral hygiene is well maintained. Since aligners are worn for 20–22 hours a day, trapped food particles and plaque can lead to 
+    cavities, bad breath, gum inflammation, and white spots if proper care is not followed. Brushing after every meal and flossing 
+    daily are essential before putting aligners back in, as wearing them over unclean teeth traps bacteria. Aligners should be cleaned
+    regularly using lukewarm water, a soft toothbrush, and aligner-safe cleaning solutions. Avoid hot water, toothpaste, and eating or 
+    drinking anything other than plain water while wearing aligners. Staying hydrated, carrying an aligner case, and attending regular 
+    dental check-ups help ensure smooth and safe treatment. At Dhotrad’s Sunny Dental Clinics, aligner treatment is always dentist-supervised
+    to deliver healthy, confident smiles. If you are looking for clear aligners or Invisalign care in Hubli, visit Dhotrad’s Sunny Dental Clinics 
+    where straight smiles meet healthy care.
+    `,
+  },
+  {
+    id: 5,
+    image: img1,
+    title: "Aligner Maintenance",
+    description:
+      "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
+    author: "Dr. Ignatius Fernandes",
+    fullContent: `Clear aligners are a comfortable and discreet way to straighten your teeth, but they work best only when your 
+    oral hygiene is well maintained. Since aligners are worn for 20–22 hours a day, trapped food particles and plaque can lead to 
+    cavities, bad breath, gum inflammation, and white spots if proper care is not followed. Brushing after every meal and flossing 
+    daily are essential before putting aligners back in, as wearing them over unclean teeth traps bacteria. Aligners should be cleaned
+    regularly using lukewarm water, a soft toothbrush, and aligner-safe cleaning solutions. Avoid hot water, toothpaste, and eating or 
+    drinking anything other than plain water while wearing aligners. Staying hydrated, carrying an aligner case, and attending regular 
+    dental check-ups help ensure smooth and safe treatment. At Dhotrad’s Sunny Dental Clinics, aligner treatment is always dentist-supervised
+    to deliver healthy, confident smiles. If you are looking for clear aligners or Invisalign care in Hubli, visit Dhotrad’s Sunny Dental Clinics 
+    where straight smiles meet healthy care.
+    `,
+  },
+  {
+    id: 6,
+    image: img1,
+    title: "Aligner Maintenance",
+    description:
+      "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
+    author: "Dr. Ignatius Fernandes",
+    fullContent: `Clear aligners are a comfortable and discreet way to straighten your teeth, but they work best only when your 
+    oral hygiene is well maintained. Since aligners are worn for 20–22 hours a day, trapped food particles and plaque can lead to 
+    cavities, bad breath, gum inflammation, and white spots if proper care is not followed. Brushing after every meal and flossing 
+    daily are essential before putting aligners back in, as wearing them over unclean teeth traps bacteria. Aligners should be cleaned
+    regularly using lukewarm water, a soft toothbrush, and aligner-safe cleaning solutions. Avoid hot water, toothpaste, and eating or 
+    drinking anything other than plain water while wearing aligners. Staying hydrated, carrying an aligner case, and attending regular 
+    dental check-ups help ensure smooth and safe treatment. At Dhotrad’s Sunny Dental Clinics, aligner treatment is always dentist-supervised
+    to deliver healthy, confident smiles. If you are looking for clear aligners or Invisalign care in Hubli, visit Dhotrad’s Sunny Dental Clinics 
+    where straight smiles meet healthy care.
+    `,
+  },
 ];
 
 export default blogs;
+
