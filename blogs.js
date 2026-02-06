@@ -1,10 +1,7 @@
-import img1 from "../Images/blog1.jpg";
-import img2 from "../Images/blog2.jpg";
-
-const blogs = [
+ [
   {
     id: 1,
-    image: img1,
+    image: "https://github.com/DhotradSunnyDentalandOrthodonticClinics/website-blogs/blob/main/images/blog1.jpg",
     title: "Aligner Maintenance",
     description:
       "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
@@ -22,7 +19,7 @@ const blogs = [
   },
   {
     id: 2,
-    image: img2,
+    image: "https://github.com/DhotradSunnyDentalandOrthodonticClinics/website-blogs/blob/main/images/blog2.jpg",
     title: "Dental jewels",
     description:
       "Teeth Jewellery in Hubli | Tooth Gems at Dhotrad’s Sunny Dental Clinics",
@@ -45,7 +42,7 @@ const blogs = [
   },
   {
     id: 3,
-    image: img1,
+    image: "https://github.com/DhotradSunnyDentalandOrthodonticClinics/website-blogs/blob/main/images/blog1.jpg",
     title: "Aligner Maintenance",
     description:
       "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
@@ -63,7 +60,7 @@ const blogs = [
   },
   {
     id: 4,
-    image: img1,
+    image: "https://github.com/DhotradSunnyDentalandOrthodonticClinics/website-blogs/blob/main/images/blog2.jpg",
     title: "Aligner Maintenance",
     description:
       "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
@@ -81,7 +78,7 @@ const blogs = [
   },
   {
     id: 5,
-    image: img1,
+    image: "https://github.com/DhotradSunnyDentalandOrthodonticClinics/website-blogs/blob/main/images/blog1.jpg",
     title: "Aligner Maintenance",
     description:
       "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
@@ -99,7 +96,7 @@ const blogs = [
   },
   {
     id: 6,
-    image: img1,
+    image: "https://github.com/DhotradSunnyDentalandOrthodonticClinics/website-blogs/blob/main/images/blog2.jpg",
     title: "Aligner Maintenance",
     description:
       "Oral Care Tips for Aligner Users: Keep Your Smile Healthy During Treatment.",
@@ -117,5 +114,4 @@ const blogs = [
   },
 ];
 
-export default blogs;
 
